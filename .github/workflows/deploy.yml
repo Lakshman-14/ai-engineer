@@ -2,9 +2,9 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, Lakshman-14-Cloud_Storage_Architecture ]
   pull_request:
-    branches: [ main ]
+    branches: [ main, Lakshman-14-Cloud_Storage_Architecture ]
 
 jobs:
   build-and-deploy:
