@@ -1,0 +1,228 @@
+Task,Region,Confirmed,Deaths,Recovered,Details
+Region Summary,Africa,723207,12223,440645,Summary of cases by region
+Region Summary,Americas,8839286,342732,4468616,Summary of cases by region
+Region Summary,Eastern Mediterranean,1490744,38339,1201400,Summary of cases by region
+Region Summary,Europe,3299523,211144,1993723,Summary of cases by region
+Region Summary,South-East Asia,1835297,41349,1156933,Summary of cases by region
+Region Summary,Western Pacific,292428,8249,206770,Summary of cases by region
+High Case Countries,All,N/A,N/A,N/A,Countries with ≥10 cases: 187
+Highest Confirmed Region,Americas,8839286,N/A,N/A,Region with most confirmed cases
+Sorted Cases (Top 5),US,4290259,148011,1325804,Countries sorted by confirmed cases
+Sorted Cases (Top 5),Brazil,2442375,87618,1846641,Countries sorted by confirmed cases
+Sorted Cases (Top 5),India,1480073,33408,951166,Countries sorted by confirmed cases
+Sorted Cases (Top 5),Russia,816680,13334,602249,Countries sorted by confirmed cases
+Sorted Cases (Top 5),South Africa,452529,7067,274925,Countries sorted by confirmed cases
+Top 5 Countries,US,4290259,N/A,N/A,Top 5 countries by confirmed cases
+Top 5 Countries,Brazil,2442375,N/A,N/A,Top 5 countries by confirmed cases
+Top 5 Countries,India,1480073,N/A,N/A,Top 5 countries by confirmed cases
+Top 5 Countries,Russia,816680,N/A,N/A,Top 5 countries by confirmed cases
+Top 5 Countries,South Africa,452529,N/A,N/A,Top 5 countries by confirmed cases
+Lowest Death Region,Western Pacific,N/A,8249,N/A,Region with lowest death count
+India Summary,India,1480073,33408,951166,COVID-19 summary for India
+Mortality Rates,Africa,N/A,N/A,N/A,Mortality Rate: 1.69%
+Mortality Rates,Americas,N/A,N/A,N/A,Mortality Rate: 3.88%
+Mortality Rates,Eastern Mediterranean,N/A,N/A,N/A,Mortality Rate: 2.57%
+Mortality Rates,Europe,N/A,N/A,N/A,Mortality Rate: 6.40%
+Mortality Rates,South-East Asia,N/A,N/A,N/A,Mortality Rate: 2.25%
+Mortality Rates,Western Pacific,N/A,N/A,N/A,Mortality Rate: 2.82%
+Recovery Rates,Africa,N/A,N/A,N/A,Recovery Rate: 60.93%
+Recovery Rates,Americas,N/A,N/A,N/A,Recovery Rate: 50.55%
+Recovery Rates,Eastern Mediterranean,N/A,N/A,N/A,Recovery Rate: 80.59%
+Recovery Rates,Europe,N/A,N/A,N/A,Recovery Rate: 60.42%
+Recovery Rates,South-East Asia,N/A,N/A,N/A,Recovery Rate: 63.04%
+Recovery Rates,Western Pacific,N/A,N/A,N/A,Recovery Rate: 70.71%
+Outliers,Brazil,2442375,N/A,N/A,Countries with unusual case counts
+Outliers,India,1480073,N/A,N/A,Countries with unusual case counts
+Outliers,US,4290259,N/A,N/A,Countries with unusual case counts
+Country-Region Groups,Africa - Algeria,27973,1163,18837,Grouped statistics by country and region
+Country-Region Groups,Africa - Angola,950,41,242,Grouped statistics by country and region
+Country-Region Groups,Africa - Benin,1770,35,1036,Grouped statistics by country and region
+Country-Region Groups,Africa - Botswana,739,2,63,Grouped statistics by country and region
+Country-Region Groups,Africa - Burkina Faso,1100,53,926,Grouped statistics by country and region
+Country-Region Groups,Africa - Burundi,378,1,301,Grouped statistics by country and region
+Country-Region Groups,Africa - Cabo Verde,2328,22,1550,Grouped statistics by country and region
+Country-Region Groups,Africa - Cameroon,17110,391,14539,Grouped statistics by country and region
+Country-Region Groups,Africa - Central African Republic,4599,59,1546,Grouped statistics by country and region
+Country-Region Groups,Africa - Chad,922,75,810,Grouped statistics by country and region
+Country-Region Groups,Africa - Comoros,354,7,328,Grouped statistics by country and region
+Country-Region Groups,Africa - Congo (Brazzaville),3200,54,829,Grouped statistics by country and region
+Country-Region Groups,Africa - Congo (Kinshasa),8844,208,5700,Grouped statistics by country and region
+Country-Region Groups,Africa - Cote d'Ivoire,15655,96,10361,Grouped statistics by country and region
+Country-Region Groups,Africa - Equatorial Guinea,3071,51,842,Grouped statistics by country and region
+Country-Region Groups,Africa - Eritrea,265,0,191,Grouped statistics by country and region
+Country-Region Groups,Africa - Eswatini,2316,34,1025,Grouped statistics by country and region
+Country-Region Groups,Africa - Ethiopia,14547,228,6386,Grouped statistics by country and region
+Country-Region Groups,Africa - Gabon,7189,49,4682,Grouped statistics by country and region
+Country-Region Groups,Africa - Gambia,326,8,66,Grouped statistics by country and region
+Country-Region Groups,Africa - Ghana,33624,168,29801,Grouped statistics by country and region
+Country-Region Groups,Africa - Guinea,7055,45,6257,Grouped statistics by country and region
+Country-Region Groups,Africa - Guinea-Bissau,1954,26,803,Grouped statistics by country and region
+Country-Region Groups,Africa - Kenya,17975,285,7833,Grouped statistics by country and region
+Country-Region Groups,Africa - Lesotho,505,12,128,Grouped statistics by country and region
+Country-Region Groups,Africa - Liberia,1167,72,646,Grouped statistics by country and region
+Country-Region Groups,Africa - Madagascar,9690,91,6260,Grouped statistics by country and region
+Country-Region Groups,Africa - Malawi,3664,99,1645,Grouped statistics by country and region
+Country-Region Groups,Africa - Mali,2513,124,1913,Grouped statistics by country and region
+Country-Region Groups,Africa - Mauritania,6208,156,4653,Grouped statistics by country and region
+Country-Region Groups,Africa - Mauritius,344,10,332,Grouped statistics by country and region
+Country-Region Groups,Africa - Mozambique,1701,11,0,Grouped statistics by country and region
+Country-Region Groups,Africa - Namibia,1843,8,101,Grouped statistics by country and region
+Country-Region Groups,Africa - Niger,1132,69,1027,Grouped statistics by country and region
+Country-Region Groups,Africa - Nigeria,41180,860,18203,Grouped statistics by country and region
+Country-Region Groups,Africa - Rwanda,1879,5,975,Grouped statistics by country and region
+Country-Region Groups,Africa - Sao Tome and Principe,865,14,734,Grouped statistics by country and region
+Country-Region Groups,Africa - Senegal,9764,194,6477,Grouped statistics by country and region
+Country-Region Groups,Africa - Seychelles,114,0,39,Grouped statistics by country and region
+Country-Region Groups,Africa - Sierra Leone,1783,66,1317,Grouped statistics by country and region
+Country-Region Groups,Africa - South Africa,452529,7067,274925,Grouped statistics by country and region
+Country-Region Groups,Africa - South Sudan,2305,46,1175,Grouped statistics by country and region
+Country-Region Groups,Africa - Tanzania,509,21,183,Grouped statistics by country and region
+Country-Region Groups,Africa - Togo,874,18,607,Grouped statistics by country and region
+Country-Region Groups,Africa - Uganda,1128,2,986,Grouped statistics by country and region
+Country-Region Groups,Africa - Western Sahara,10,1,8,Grouped statistics by country and region
+Country-Region Groups,Africa - Zambia,4552,140,2815,Grouped statistics by country and region
+Country-Region Groups,Africa - Zimbabwe,2704,36,542,Grouped statistics by country and region
+Country-Region Groups,Americas - Antigua and Barbuda,86,3,65,Grouped statistics by country and region
+Country-Region Groups,Americas - Argentina,167416,3059,72575,Grouped statistics by country and region
+Country-Region Groups,Americas - Bahamas,382,11,91,Grouped statistics by country and region
+Country-Region Groups,Americas - Barbados,110,7,94,Grouped statistics by country and region
+Country-Region Groups,Americas - Belize,48,2,26,Grouped statistics by country and region
+Country-Region Groups,Americas - Bolivia,71181,2647,21478,Grouped statistics by country and region
+Country-Region Groups,Americas - Brazil,2442375,87618,1846641,Grouped statistics by country and region
+Country-Region Groups,Americas - Canada,116458,8944,0,Grouped statistics by country and region
+Country-Region Groups,Americas - Chile,347923,9187,319954,Grouped statistics by country and region
+Country-Region Groups,Americas - Colombia,257101,8777,131161,Grouped statistics by country and region
+Country-Region Groups,Americas - Costa Rica,15841,115,3824,Grouped statistics by country and region
+Country-Region Groups,Americas - Cuba,2532,87,2351,Grouped statistics by country and region
+Country-Region Groups,Americas - Dominica,18,0,18,Grouped statistics by country and region
+Country-Region Groups,Americas - Dominican Republic,64156,1083,30204,Grouped statistics by country and region
+Country-Region Groups,Americas - Ecuador,81161,5532,34896,Grouped statistics by country and region
+Country-Region Groups,Americas - El Salvador,15035,408,7778,Grouped statistics by country and region
+Country-Region Groups,Americas - Grenada,23,0,23,Grouped statistics by country and region
+Country-Region Groups,Americas - Guatemala,45309,1761,32455,Grouped statistics by country and region
+Country-Region Groups,Americas - Guyana,389,20,181,Grouped statistics by country and region
+Country-Region Groups,Americas - Haiti,7340,158,4365,Grouped statistics by country and region
+Country-Region Groups,Americas - Honduras,39741,1166,5039,Grouped statistics by country and region
+Country-Region Groups,Americas - Jamaica,853,10,714,Grouped statistics by country and region
+Country-Region Groups,Americas - Mexico,395489,44022,303810,Grouped statistics by country and region
+Country-Region Groups,Americas - Nicaragua,3439,108,2492,Grouped statistics by country and region
+Country-Region Groups,Americas - Panama,61442,1322,35086,Grouped statistics by country and region
+Country-Region Groups,Americas - Paraguay,4548,43,2905,Grouped statistics by country and region
+Country-Region Groups,Americas - Peru,389717,18418,272547,Grouped statistics by country and region
+Country-Region Groups,Americas - Saint Kitts and Nevis,17,0,15,Grouped statistics by country and region
+Country-Region Groups,Americas - Saint Lucia,24,0,22,Grouped statistics by country and region
+Country-Region Groups,Americas - Saint Vincent and the Grenadines,52,0,39,Grouped statistics by country and region
+Country-Region Groups,Americas - Suriname,1483,24,925,Grouped statistics by country and region
+Country-Region Groups,Americas - Trinidad and Tobago,148,8,128,Grouped statistics by country and region
+Country-Region Groups,Americas - US,4290259,148011,1325804,Grouped statistics by country and region
+Country-Region Groups,Americas - Uruguay,1202,35,951,Grouped statistics by country and region
+Country-Region Groups,Americas - Venezuela,15988,146,9959,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Afghanistan,36263,1269,25198,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Bahrain,39482,141,36110,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Djibouti,5059,58,4977,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Egypt,92482,4652,34838,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Iran,293606,15912,255144,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Iraq,112585,4458,77144,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Jordan,1176,11,1041,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Kuwait,64379,438,55057,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Lebanon,3882,51,1709,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Libya,2827,64,577,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Morocco,20887,316,16553,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Oman,77058,393,57028,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Pakistan,274289,5842,241026,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Qatar,109597,165,106328,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Saudi Arabia,268934,2760,222936,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Somalia,3196,93,1543,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Sudan,11424,720,5939,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Syria,674,40,0,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Tunisia,1455,50,1157,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - United Arab Emirates,59177,345,52510,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - West Bank and Gaza,10621,78,3752,Grouped statistics by country and region
+Country-Region Groups,Eastern Mediterranean - Yemen,1691,483,833,Grouped statistics by country and region
+Country-Region Groups,Europe - Albania,4880,144,2745,Grouped statistics by country and region
+Country-Region Groups,Europe - Andorra,907,52,803,Grouped statistics by country and region
+Country-Region Groups,Europe - Armenia,37390,711,26665,Grouped statistics by country and region
+Country-Region Groups,Europe - Austria,20558,713,18246,Grouped statistics by country and region
+Country-Region Groups,Europe - Azerbaijan,30446,423,23242,Grouped statistics by country and region
+Country-Region Groups,Europe - Belarus,67251,538,60492,Grouped statistics by country and region
+Country-Region Groups,Europe - Belgium,66428,9822,17452,Grouped statistics by country and region
+Country-Region Groups,Europe - Bosnia and Herzegovina,10498,294,4930,Grouped statistics by country and region
+Country-Region Groups,Europe - Bulgaria,10621,347,5585,Grouped statistics by country and region
+Country-Region Groups,Europe - Croatia,4881,139,3936,Grouped statistics by country and region
+Country-Region Groups,Europe - Cyprus,1060,19,852,Grouped statistics by country and region
+Country-Region Groups,Europe - Czechia,15516,373,11428,Grouped statistics by country and region
+Country-Region Groups,Europe - Denmark,13761,613,12605,Grouped statistics by country and region
+Country-Region Groups,Europe - Estonia,2034,69,1923,Grouped statistics by country and region
+Country-Region Groups,Europe - Finland,7398,329,6920,Grouped statistics by country and region
+Country-Region Groups,Europe - France,220352,30212,81212,Grouped statistics by country and region
+Country-Region Groups,Europe - Georgia,1137,16,922,Grouped statistics by country and region
+Country-Region Groups,Europe - Germany,207112,9125,190314,Grouped statistics by country and region
+Country-Region Groups,Europe - Greece,4227,202,1374,Grouped statistics by country and region
+Country-Region Groups,Europe - Greenland,14,0,13,Grouped statistics by country and region
+Country-Region Groups,Europe - Holy See,12,0,12,Grouped statistics by country and region
+Country-Region Groups,Europe - Hungary,4448,596,3329,Grouped statistics by country and region
+Country-Region Groups,Europe - Iceland,1854,10,1823,Grouped statistics by country and region
+Country-Region Groups,Europe - Ireland,25892,1764,23364,Grouped statistics by country and region
+Country-Region Groups,Europe - Israel,63985,474,27133,Grouped statistics by country and region
+Country-Region Groups,Europe - Italy,246286,35112,198593,Grouped statistics by country and region
+Country-Region Groups,Europe - Kazakhstan,84648,585,54404,Grouped statistics by country and region
+Country-Region Groups,Europe - Kosovo,7413,185,4027,Grouped statistics by country and region
+Country-Region Groups,Europe - Kyrgyzstan,33296,1301,21205,Grouped statistics by country and region
+Country-Region Groups,Europe - Latvia,1219,31,1045,Grouped statistics by country and region
+Country-Region Groups,Europe - Liechtenstein,86,1,81,Grouped statistics by country and region
+Country-Region Groups,Europe - Lithuania,2019,80,1620,Grouped statistics by country and region
+Country-Region Groups,Europe - Luxembourg,6321,112,4825,Grouped statistics by country and region
+Country-Region Groups,Europe - Malta,701,9,665,Grouped statistics by country and region
+Country-Region Groups,Europe - Moldova,23154,748,16154,Grouped statistics by country and region
+Country-Region Groups,Europe - Monaco,116,4,104,Grouped statistics by country and region
+Country-Region Groups,Europe - Montenegro,2893,45,809,Grouped statistics by country and region
+Country-Region Groups,Europe - Netherlands,53413,6160,189,Grouped statistics by country and region
+Country-Region Groups,Europe - North Macedonia,10213,466,5564,Grouped statistics by country and region
+Country-Region Groups,Europe - Norway,9132,255,8752,Grouped statistics by country and region
+Country-Region Groups,Europe - Poland,43402,1676,32856,Grouped statistics by country and region
+Country-Region Groups,Europe - Portugal,50299,1719,35375,Grouped statistics by country and region
+Country-Region Groups,Europe - Romania,45902,2206,25794,Grouped statistics by country and region
+Country-Region Groups,Europe - Russia,816680,13334,602249,Grouped statistics by country and region
+Country-Region Groups,Europe - San Marino,699,42,657,Grouped statistics by country and region
+Country-Region Groups,Europe - Serbia,24141,543,0,Grouped statistics by country and region
+Country-Region Groups,Europe - Slovakia,2181,28,1616,Grouped statistics by country and region
+Country-Region Groups,Europe - Slovenia,2087,116,1733,Grouped statistics by country and region
+Country-Region Groups,Europe - Spain,272421,28432,150376,Grouped statistics by country and region
+Country-Region Groups,Europe - Sweden,79395,5700,0,Grouped statistics by country and region
+Country-Region Groups,Europe - Switzerland,34477,1978,30900,Grouped statistics by country and region
+Country-Region Groups,Europe - Tajikistan,7235,60,6028,Grouped statistics by country and region
+Country-Region Groups,Europe - Turkey,227019,5630,210469,Grouped statistics by country and region
+Country-Region Groups,Europe - Ukraine,67096,1636,37202,Grouped statistics by country and region
+Country-Region Groups,Europe - United Kingdom,301708,45844,1437,Grouped statistics by country and region
+Country-Region Groups,Europe - Uzbekistan,21209,121,11674,Grouped statistics by country and region
+Country-Region Groups,South-East Asia - Bangladesh,226225,2965,125683,Grouped statistics by country and region
+Country-Region Groups,South-East Asia - Bhutan,99,0,86,Grouped statistics by country and region
+Country-Region Groups,South-East Asia - Burma,350,6,292,Grouped statistics by country and region
+Country-Region Groups,South-East Asia - India,1480073,33408,951166,Grouped statistics by country and region
+Country-Region Groups,South-East Asia - Indonesia,100303,4838,58173,Grouped statistics by country and region
+Country-Region Groups,South-East Asia - Maldives,3369,15,2547,Grouped statistics by country and region
+Country-Region Groups,South-East Asia - Nepal,18752,48,13754,Grouped statistics by country and region
+Country-Region Groups,South-East Asia - Sri Lanka,2805,11,2121,Grouped statistics by country and region
+Country-Region Groups,South-East Asia - Thailand,3297,58,3111,Grouped statistics by country and region
+Country-Region Groups,South-East Asia - Timor-Leste,24,0,0,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - Australia,15303,167,9311,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - Brunei,141,3,138,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - Cambodia,226,0,147,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - China,86783,4656,78869,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - Fiji,27,0,18,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - Japan,31142,998,21970,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - Laos,20,0,19,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - Malaysia,8904,124,8601,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - Mongolia,289,0,222,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - New Zealand,1557,22,1514,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - Papua New Guinea,62,0,11,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - Philippines,82040,1945,26446,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - Singapore,50838,27,45692,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - South Korea,14203,300,13007,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - Taiwan*,462,7,440,Grouped statistics by country and region
+Country-Region Groups,Western Pacific - Vietnam,431,0,365,Grouped statistics by country and region
+Zero Recovery Regions,Africa,N/A,N/A,0,Number of zero recovery cases: 1
+Zero Recovery Regions,Americas,N/A,N/A,0,Number of zero recovery cases: 1
+Zero Recovery Regions,Eastern Mediterranean,N/A,N/A,0,Number of zero recovery cases: 1
+Zero Recovery Regions,Europe,N/A,N/A,0,Number of zero recovery cases: 2
+Zero Recovery Regions,South-East Asia,N/A,N/A,0,Number of zero recovery cases: 1
